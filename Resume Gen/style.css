@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(132, 110, 227);
+}
+h1{
+    background-origin: padding-box;
+    background-color: rgb(38, 41, 41);
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 16px  ;
+    -webkit-border-radius: 16px  ;
+    -moz-border-radius: 16px  ;
+    -ms-border-radius: 16px  ;
+    -o-border-radius: 16px  ;
+    margin-top: 4;
+    margin-bottom: 4;
+
+}
+h3{
+    background-color: rgb(49, 49, 45);
+    color: white;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 80px;
+    -webkit-border-radius: 80px;
+    -moz-border-radius: 80px;
+    -ms-border-radius: 80px;
+    -o-border-radius: 80px;
+    margin-top:2;
+    margin-bottom: 2;
+}
+.my-3{
+    background-color: rgb(49, 49, 45);
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    padding-inline: 2px;
+    text-align: center;
+}
